@@ -10,8 +10,14 @@ Set `template` in Maverick configuration file as bellow:
 template = {
     "name": "Galileo",
     "type": "git",
-    "url": "https://github.com/FengYJ120/Theme-For-Maverick.git",
+    "url": "https://github.com/RavenHogWarts/Theme-For-Maverick.git",
     "branch": "Galileo"
+}
+
+template = {
+    "name": "Galileo",
+    "type": "local",
+    "path": "../Galileo"
 }
 ```
 
