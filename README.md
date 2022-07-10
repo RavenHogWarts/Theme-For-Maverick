@@ -10,7 +10,7 @@ Set `template` in Maverick configuration file as bellow:
 template = {
     "name": "Kepler",
     "type": "git",
-    "url": "https://github.com/FengYJ120/Theme-For-Maverick.git",
+    "url": "https://github.com/RavenHogWarts/Theme-For-Maverick.git",
     "branch": "Kepler"
 }
 ```
